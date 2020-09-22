@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Basic Location Services</string>
+    <string name="title_activity_select_train">SelectTrain</string>
+    <string name="country_prompt">Choose a Train</string>
+
+    <string-array name="train_arrays">
+        <item>train1</item>
+        <item>train2</item>
+        <item>train3</item>
+        <item>train4</item>
+        <item>train5</item>
+        <item>train6</item>
+    </string-array>
+</resources>
